@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BoQ ID="ID187">
+  <BoQInfo>
+    <Name>Beispiel</Name>
+    <LblBoQ>ROHBAUARBEITEN</LblBoQ>
+    <Date>2012-02-29</Date>
+    <OutlCompl>AllTxt</OutlCompl>
+    <BoQBkdn>
+      <Type>BoQLevel</Type>
+      <Length>2</Length>
+      <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+      <Type>BoQLevel</Type>
+      <Length>2</Length>
+      <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+      <Type>Item</Type>
+      <Length>4</Length>
+      <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+      <Type>Index</Type>
+      <Length>1</Length>
+      <Num>Yes</Num>
+    </BoQBkdn>
+    <NoUPComps>3</NoUPComps>
+    <LblUPComp1>Material</LblUPComp1>
+    <LblUPComp2>Lohn</LblUPComp2>
+    <LblUPComp3>Sonstiges</LblUPComp3>
+  </BoQInfo>
+  <BoQBody>
+    <BoQCtgy ID="ID247" RNoPart="01">
+      <LblTx>
+        <p style="text-align:left;">
+          <span style="font-family:'Arial';">MAUERARBEITEN</span>
+        </p>
+      </LblTx>
+      <BoQBody>
+        <BoQCtgy ID="ID306" RNoPart="01">
+          <LblTx>
+            <p style="text-align:left;">
+              <span style="font-family:'Arial';">MAUERARBEITEN - WÄNDE</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="ID365" RNoPart="0010">
+                <UPBkdn>Yes</UPBkdn>
+                <Qty>48.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Waagrechte Abdichtung gegen Bodenfeuchtigkeit in Wänden</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">mit Bitumendachdichtungsbahn G 200 DD, lose im</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Mörtelbett verlegt; Stoßüberlappung 20 cm. Breite: bis</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">36,5 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Abdichtung in Wand, G 200 DD, d= 36,5 cm  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID424" RNoPart="0020">
+                <UPBkdn>Yes</UPBkdn>
+                <Qty>48.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Waagrechte Abdichtung gegen Bodenfeuchtigkeit in Wänden</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">mit Bitumendachdichtungsbahn G 200 DD, lose im</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Mörtelbett verlegt; Stoßüberlappung 20 cm. Breite: bis</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">36,5 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Abdichtung in Wand, G 200 DD, d= 24,0 cm  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Remark ID="ID483">
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Hinweis:</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Alle Texte sind lediglich als Muster zu betrachten und</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">und haben keine inhaltliche Relevanz  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                  </CompleteText>
+                </Description>
+              </Remark>
+              <Item ID="ID542" RNoPart="0030">
+                <Qty>104.000</Qty>
+                <QU>m3</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Hochlochziegel HLz 12/1,4, Mörtelgruppe II, für</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Außenmauerwerk.Wanddicke: 36,5 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Hlz 12/1,4 - MG II, d= 36,5 cm  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID601" RNoPart="0040">
+                <ALNGroupNo>010</ALNGroupNo>
+                <ALNSerNo>0</ALNSerNo>
+                <Qty>48.000</Qty>
+                <QU>m3</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Hochlochziegel HLz 20/1,8, Mörtelgruppe II, für</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Außenmauerwerk.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Wanddicke: 24 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Hlz 20/1,8 - MG II, d= 24,0 cm  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID660" RNoPart="0050">
+                <ALNGroupNo>010</ALNGroupNo>
+                <ALNSerNo>1</ALNSerNo>
+                <Qty>48.000</Qty>
+                <QU>m2</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Mauerwerk der Außenwand,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Vollblöcke aus Leichtbeton DIN 18152 -</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Vbl 2 - 0,6 - 495 x 240 x 238,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Mörtel als Leichtmauermörtel LM 21,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Wärmeleitfähigkeit 0,18,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Mauerwerksdicke 24 cm.  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Außenw.LB-Vbl 2-0.6-16DF, d=24.0cm, LM 21  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID719" RNoPart="0060">
+                <Qty>48.000</Qty>
+                <QU>m2</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Mauerwerk DIN 1053 Teil 1,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">der Außenwand,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">einseitig als Sichtmauerwerk,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Fugenglattstrich/Ausfugen wird gesondert vergütet.  </span>
+                        </p>
+                      </Text>
+                      <TextComplement Kind="Owner" MarkLbl="41">
+                        <ComplCaption>
+                          <span style="font-family:'Courier New';font-size:10pt;"> Mauerwerksdicke </span>
+                        </ComplCaption>
+                        <ComplBody>
+                          <span style="font-family:'Courier New';font-size:10pt;">'43,5'</span>
+                        </ComplBody>
+                        <ComplTail>
+                          <span style="font-family:'Courier New';font-size:10pt;"> ,</span>
+                        </ComplTail>
+                      </TextComplement>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';font-size:10pt;"> </span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Höhe bis 3,5 m,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">bestehend aus:  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">[TA41Mauerwerk 1053/1 Außenwand ['43,5']]  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+                <SumDescr>Yes</SumDescr>
+                <SubDescr>
+                  <SubDNo>01</SubDNo>
+                  <Description>
+                    <CompleteText>
+                      <DetailTxt>
+                        <Text>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Kalksandstein DIN 106 Teil 1</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">KS</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">mit vermörtelter Stoßfuge,</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">12 -</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">1,2 -</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">2 DF (240 x 115 x 113),</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">MG II a.  </span>
+                          </p>
+                        </Text>
+                      </DetailTxt>
+                      <OutlineText>
+                        <OutlTxt>
+                          <TextOutlTxt>
+                            <p style="text-align:left;">
+                              <span style="font-family:'Courier New';font-size:10pt;">Kalksandst.106/1 KS 12 - 1,2  </span>
+                            </p>
+                          </TextOutlTxt>
+                        </OutlTxt>
+                      </OutlineText>
+                    </CompleteText>
+                  </Description>
+                </SubDescr>
+                <SubDescr>
+                  <SubDNo>02</SubDNo>
+                  <Description>
+                    <CompleteText>
+                      <DetailTxt>
+                        <Text>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Kalksandstein DIN 106 Teil 1</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">KSL</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">mit vermörtelter Stoßfuge,</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">12 -</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">1,4 -</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">16 DF (498 x 240 x 238),</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">MG II a.  </span>
+                          </p>
+                        </Text>
+                      </DetailTxt>
+                      <OutlineText>
+                        <OutlTxt>
+                          <TextOutlTxt>
+                            <p style="text-align:left;">
+                              <span style="font-family:'Courier New';font-size:10pt;">Kalksandst.106/1 KSL 12 - 1,4  </span>
+                            </p>
+                          </TextOutlTxt>
+                        </OutlTxt>
+                      </OutlineText>
+                    </CompleteText>
+                  </Description>
+                </SubDescr>
+                <SubDescr>
+                  <SubDNo>03</SubDNo>
+                  <Description>
+                    <CompleteText>
+                      <DetailTxt>
+                        <Text>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Wärmedämmschicht</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">zwischen zwei Bauteilen</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">aus Schaumkunststoffplatten DIN 18 164 Teil 1,</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Typ W nicht druckbelastbar,</span>
+                          </p>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Nenndicke 60 mm.  </span>
+                          </p>
+                        </Text>
+                      </DetailTxt>
+                      <OutlineText>
+                        <OutlTxt>
+                          <TextOutlTxt>
+                            <p style="text-align:left;">
+                              <span style="font-family:'Courier New';font-size:10pt;">Wärmedämmschicht Schaumkunststoff 60 mm  </span>
+                            </p>
+                          </TextOutlTxt>
+                        </OutlTxt>
+                      </OutlineText>
+                    </CompleteText>
+                  </Description>
+                  <QtySpec>Yes</QtySpec>
+                  <Qty>120.000</Qty>
+                  <QU>m2</QU>
+                </SubDescr>
+              </Item>
+              <Item ID="ID955" RNoPart="0070">
+                <Qty>90.000</Qty>
+                <QU>m2</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Abdichtung von vollfugigem Ziegel-</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Kellermauerwerk wie folgt herstellen:</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">- Im ersten Arbeitsgang ist eine</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Egalisierungsabspachtelung aufzubringen.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">- Nach ausreichender Abtrocknung oder</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  naß in naß ist eine zweite</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Dichtspachtelung mit einer</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Mindestschichtdicke nach</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Herstellerangaben aufzubringen.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Grundierung, Kratzspachtelung sowie</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Dickbeschichtung müssen von einem</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  Hersteller geliefert werden und im</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';">  System aufeinander abgestimmt sein. </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Abdichtung Kellerziegelmauerwerk, außen  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID1014" RNoPart="0080">
+                <Provis>WithoutTotal</Provis>
+                <Qty>70.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Hohlkehle an aufgehendem</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Kellerwandmauerwerk wie folgt einbauen:</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Der Außenwandanschluß ist gründlich zu</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">reinigen. Hohlkehle der Außenwände</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">zwischen horizontalen Flächen und</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">aufgehenden Wänden aus Zementmörtel in</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">MG III und/oder mit Dichtungsschlämme</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">herstellen; Oberfläche abglätten;</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Schenkellänge: mind.4 - 8 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Hohlkehle an aufgeh. Kellermauerwerk  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+      </BoQBody>
+    </BoQCtgy>
+    <BoQCtgy ID="ID1073" RNoPart="02">
+      <LblTx>
+        <p style="text-align:left;">
+          <span style="font-family:'Courier New';font-size:10pt;">STAHLBETONARBEITEN</span>
+        </p>
+      </LblTx>
+      <BoQBody>
+        <BoQCtgy ID="ID1132" RNoPart="01">
+          <LblTx>
+            <p style="text-align:left;">
+              <span style="font-family:'Courier New';font-size:10pt;">STAHLBETONARBEITEN - FUNDAMENTE</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="ID1191" RNoPart="0010">
+                <Qty>270.000</Qty>
+                <QU>m2</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Sauberkeitsschicht aus Beton B 10 unter</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Gründungsbauteilen aller Art</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">(Einzel-und Streifenfundamente, Boden- und</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Fundamentplatten).</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Dicke: ca. 5 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Sauberkeitsschicht aus Beton B 10  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID1250" RNoPart="0020">
+                <Qty>270.000</Qty>
+                <QU>m2</QU>
+                <Description>
+                  <CompleteText>
+                    <ComplTSB>Yes</ComplTSB>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Ortbeton der Schutzschicht auf</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">vorhandener Abdichtung,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Untergrund waagerecht,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">obere Betonfläche waagerecht,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">aus Leichtbeton DIN 4219, LB 15,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Dicke 15 cm,  </span>
+                        </p>
+                      </Text>
+                      <TextComplement Kind="Bidder" MarkLbl="91">
+                        <ComplCaption>
+                          <span style="font-family:'Courier New';font-size:10pt;"> Rohdichteklasse: </span>
+                        </ComplCaption>
+                        <ComplBody>
+                          <span style="font-family:'Courier New';font-size:10pt;">'...........................'</span>
+                        </ComplBody>
+                        <ComplTail>
+                          <span style="font-family:'Courier New';font-size:10pt;"/>
+                        </ComplTail>
+                      </TextComplement>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Arial';font-size:10pt;">   </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Ortbeton, Schutzschicht, LB15, d=15cm  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID1309" RNoPart="0030">
+                <Provis>WithoutTotal</Provis>
+                <Qty>14.000</Qty>
+                <QU>m3</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Stahlbeton B 25, für Streifenfundamente, auf</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Sauberkeitsschicht betoniert. Schalung und Bewehrung</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">gesondert.Querschnitt: bis 100/100 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Streifenfundament, StB B 25, o. Schalung  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+        <BoQCtgy ID="ID1368" RNoPart="02">
+          <LblTx>
+            <p style="text-align:left;">
+              <span style="font-family:'Courier New';font-size:10pt;">STAHLBETONARBEITEN - DECKEN</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="ID1427" RNoPart="0010">
+                <ALNGroupNo>020</ALNGroupNo>
+                <ALNSerNo>0</ALNSerNo>
+                <Qty>60.000</Qty>
+                <QU>m3</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Stahlbetondecken aus Beton B 25, Oberfläche eben</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">abgezogen</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">und rauhabgerieben, zur Aufnahme einer</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Fußbodenkonstruktion.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Schalung und Bewehrung in gesonderten Positionen.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Deckendicke: bis 20 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Stahlbetondecken B 25, d=bis 20 cm, o.Sch.  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID1486" RNoPart="0020">
+                <ALNGroupNo>020</ALNGroupNo>
+                <ALNSerNo>1</ALNSerNo>
+                <Qty>60.000</Qty>
+                <QU>m2</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Dachdecke aus vorgefertigten, bewehrten</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Spannbeton-Hohlplatten, einschl. Verguß,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">evtl.erforderlicher Befestigung und</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Statik,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">als statisch wirksame Scheibe einschl.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Fugen- und Ringankerbewehrung,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">in Normalbeton DIN 1045 B 55,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Plattendicke 20,0 cm, F 30</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">ständige Last ohne Deckeneigengewicht</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">2,25 kN/m2,</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Stützweite/Einbauhöhe nach Plan.  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Dachdeck., Spannbeton-Hohlpl., d=20cm  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+        <BoQCtgy ID="ID1545" RNoPart="03">
+          <LblTx>
+            <p style="text-align:left;">
+              <span style="font-family:'Courier New';font-size:10pt;">STAHLBETONARBEITEN - STÜRZE</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="ID1604" RNoPart="0010">
+                <RefDescr>Ref</RefDescr>
+                <Qty>6.060</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Stahlbetonfertigteilsturz zur Überdeckung von Öffnungen</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">in Mörtelgruppe III verlegen, incl. Herstellen des</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Auflagers.</span>
+                        </p>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Wanddicke : 36,5 cm Lichte Weite: bis 1,01 m  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Stahlbetonsturz, d = 36,5 cm, LW &lt;= 1,01m  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="ID1663" RNoPart="0020">
+                <RefDescr>Rep</RefDescr>
+                <RefRNo IDRef="ID1604"/>
+                <Qty>6.060</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p style="text-align:left;">
+                          <span style="font-family:'Courier New';font-size:10pt;">Wanddicke d=24 cm  </span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p style="text-align:left;">
+                            <span style="font-family:'Courier New';font-size:10pt;">Stahlbetonsturz, d = 24 cm, LW &lt;= 1,01m  </span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+      </BoQBody>
+    </BoQCtgy>
+  </BoQBody>
+</BoQ>
